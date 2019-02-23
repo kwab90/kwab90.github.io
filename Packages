@@ -12,7 +12,7 @@ Section: Tweaks
 Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
 Author: shiftcmdk 
 Name: PencilChargingIndicator
-
+,
 Package: com.muirey03.smallsiri
 Version: 1.2.0
 Architecture: iphoneos-arm
