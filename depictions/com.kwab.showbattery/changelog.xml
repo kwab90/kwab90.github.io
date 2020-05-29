@@ -7,4 +7,11 @@
 		<version>0.0.2</version>
 		<change>Added armv7 support.</change>
 	</changes>
+	<changes>
+		<version>1.0</version>
+		<change>Official Release</change>
+		<change>Added Pictures</change>
+		<change>Revised Description</change>
+		<change>Supports iOS 5.0 and up!</change>
+	</changes>
 </changelog>

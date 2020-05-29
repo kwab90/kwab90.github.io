@@ -1,3 +1,16 @@
+<br/>
+Beta Update Change Log<br/>
+<br/>
+Update 0.1.0 5/29/20<br/>
+	- Moved to Beta!!!<br/>
+	- ShowBatteries is now an official downloadable tweak on the repo!<br/>
+	- Change Log 1.0 has been added to ShowBatteries!<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+Alpha Update Change Logs<br/>
+<br/>
 Update 0.0.1 5/29/20:<br/>
 	- Initial Release of the Repo.<br/>
 	- Added ShowBatteries Example Tweak.<br/> 

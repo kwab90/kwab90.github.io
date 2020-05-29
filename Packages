@@ -1,5 +1,5 @@
 Package: com.kwab.showbattery
-Version: 0.0.2
+Version: 1.0
 Section: Tweaks
 Maintainer: KWaB <KWaB909@gmail.com>
 Depends: firmware (>5.0), mobilesubstrate
@@ -10,4 +10,3 @@ MD5sum: 00bc6c19b417e52200a0ab438c3d5388
 Description: This is my first tweak! :D
 Name: Show Battery
 Author: KWaB <KWaB909@gmail.com>
-Depiction: https://github.com/kwab90/kwab90.github.io

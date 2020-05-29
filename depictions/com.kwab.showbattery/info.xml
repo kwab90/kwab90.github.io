@@ -1,7 +1,7 @@
 <package>
 	<id>com.kwab.showbattery</id>
 	<name>Show Battery</name>
-	<version>0.0.2</version>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>>5.0</maxiOS>
@@ -13,11 +13,19 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is my first tweak!.</description>
+		<description>This is my first tweak! It shows the battery percentage of every device connected to your phone when any form of UIAlert Pops up.</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+	<screenshot>
+			<description>This is an example of the tweak.</description>
+			<image>Example.jpg</image>
+		</screenshot>		
+	</screenshots>
 	<changelog>
-		<change>Added armv7 support.</change>
+		<change>Official Release</change>
+		<change>Added Pictures</change>
+		<change>Revised Description</change>
+		<change>Supports iOS 5.0 and up!</change>
 	</changelog>
 	<links></links>
 </package>
