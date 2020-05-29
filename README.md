@@ -7,7 +7,10 @@ Update 0.0.2 5/29/20:<br/>
 	- Updated Release.file.<br/>
 <br/>
 Update 0.0.3 5/29/20:<br/>
-	- Fixed README.MD
+	- Fixed README.MD<br/>
 <br/>
 Update 0.0.4 5/29/20:<br/>
-	- Updated ShowBatteries with armv7 support!
+	- Updated ShowBatteries with armv7 support!<br/>
+<br/>
+Update 0.0.5 5/29/20:<br/>
+	- Fixed README.MD
