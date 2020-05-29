@@ -6,7 +6,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.kwab.showbattery.deb
 Size: 9256
-MD5sum: 00bc6c19b417e52200a0ab438c3d5388
+MD5sum: d5f15b563aebb7b9d43d5d89dd5dcee6
 Description: This is my first tweak! It shows the battery percentage of every device connected to your phone when any form of UIAlert Pops up.
 Name: Show Battery
 Author: KWaB <KWaB909@gmail.com>
