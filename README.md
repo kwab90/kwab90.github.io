@@ -12,6 +12,9 @@ Update 0.1.1 5/29/20<br/>
 Update 0.1.2 5/29/20<br/>
 	- Fixed ShowBatteries<br/>
 <br/>
+Update 0.1.3 5/29/20<br/>
+	- Fixed Release.file<br/>
+<br/>
 <br/>
 <br/>
 <br/>
