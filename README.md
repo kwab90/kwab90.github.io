@@ -26,4 +26,8 @@ Update 0.0.8 5/29/20:<br/>
 <br/>
 Update 0.0.9 5/29/20:<br/>
 	- Fixed ShowBatteries dependencies. <br/>
-	- Fixed README.MD
+	- Fixed README.MD<br/>
+<br/>
+Update 0.0.10 5/29/20:<br/>
+	- Fixed ShowBatteries dependencies. <br/>
+	- Fixed Packages.file
