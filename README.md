@@ -19,6 +19,10 @@ Update 0.1.4 5/29/20<br/>
 	- Fixed Packages.bzip2<br/>
 <br/>
 <br/>
+Update 0.1.5 5/29/20<br/>
+	- Removed maxOS on ShowBatteries<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>

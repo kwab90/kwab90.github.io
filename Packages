@@ -1,8 +1,8 @@
 Package: com.kwab.showbattery
-Version: 1.0.0
+Version: 1.1.0
 Section: Tweaks
 Maintainer: KWaB <KWaB909@gmail.com>
-Depends: firmware (>5.0), mobilesubstrate
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.kwab.showbattery.deb
 Size: 9256
