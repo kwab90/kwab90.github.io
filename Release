@@ -1,8 +1,8 @@
-Origin: Reposi3
-Label: Reposi3
+Origin: KWaBs Repo
+Label: KWaBs Repo
 Suite: stable
-Version: 1.0
+Version: 0.0.2
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Reposi3 - a cydia repo template
+Description: A Repo for KWaBs Tweaks!
