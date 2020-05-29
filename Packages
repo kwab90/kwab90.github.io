@@ -1,14 +1,13 @@
-Package: com.repo.xarold.com.pencilchargingindicator
-Version: 1.1.3
-Architecture: iphoneos-arm
-Maintainer: KWaB90 <kwab909@gmail.com>
-Depends: none
-Filename: /PencilChargingIndicator.deb
-Size: 41720
-MD5sum: 74149f8e4026171de3ce05bf070376db
-SHA1: 4380e13a5d3ecfefdabae8cf4aecdf2c443c3cca
-SHA256: 96fab2f1901d1ca73927e907e5b0e03babe18d7e1d22bab8dbef3a4c9c3be50e
+Package: com.kwab.showbattery
+Version: 0.0.1
 Section: Tweaks
-Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
-Author: shiftcmdk 
-Name: PencilChargingIndicator
+Maintainer: KWaB <KWaB909@gmail.com>
+Depends: firmware (13.5), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.kwab.showbattery.deb
+Size: 6702
+MD5sum: 36a357ab65567b78eaa01a5bcd15e244
+Description: This is my first tweak! :D
+Name: Show Battery
+Author: KWaB <KWaB909@gmail.com>
+Depiction: https://github.com/kwab90/kwab90.github.io

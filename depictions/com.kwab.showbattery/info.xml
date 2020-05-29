@@ -1,0 +1,23 @@
+<package>
+	<id>com.supermamon.oldpackage</id>
+	<name>Old Package</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.5</maxiOS>
+			<otherVersions>supported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This is my first tweak!.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
