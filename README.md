@@ -31,3 +31,6 @@ Update 0.0.9 5/29/20:<br/>
 Update 0.0.10 5/29/20:<br/>
 	- Fixed ShowBatteries dependencies. <br/>
 	- Fixed Packages.file
+<br/>
+Update 0.0.11 5/29/20:<br/>
+	- Fixed Packages.file
