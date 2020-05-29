@@ -3,4 +3,8 @@
 		<version>0.0.1</version>
 		<change>Initial release</change>
 	</changes>
+	<changes>
+		<version>0.0.2</version>
+		<change>Added armv7 support.</change>
+	</changes>
 </changelog>
