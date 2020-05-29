@@ -1,7 +1,7 @@
 <package>
 	<id>com.kwab.showbattery</id>
 	<name>Show Battery</name>
-	<version>1.0</version>
+	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>>5.0</maxiOS>

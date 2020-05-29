@@ -9,6 +9,9 @@ Update 0.1.0 5/29/20<br/>
 Update 0.1.1 5/29/20<br/>
 	- Fixed Packages.bzip2<br/>
 <br/>
+Update 0.1.2 5/29/20<br/>
+	- Fixed ShowBatteries<br/>
+<br/>
 <br/>
 <br/>
 <br/>
