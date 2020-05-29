@@ -6,6 +6,9 @@ Update 0.1.0 5/29/20<br/>
 	- ShowBatteries is now an official downloadable tweak on the repo!<br/>
 	- Change Log 1.0 has been added to ShowBatteries!<br/>
 <br/>
+Update 0.1.1 5/29/20<br/>
+	- Fixed Packages.bzip2<br/>
+<br/>
 <br/>
 <br/>
 <br/>
